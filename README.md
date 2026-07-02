@@ -84,17 +84,6 @@ public sealed class DeveloperProfile
 - Testing interactive ideas for WebGL and VR.
 - Keeping projects practical, playable, and easy to iterate on.
 
-## Repository Map
-
-| Project | Type | Stack |
-|:---|:---|:---|
-| [SteamVR FireSafetyTrainer](https://github.com/JILYK/SteamVR_FireSafetyTrainer) | VR training simulation | `Unity` `C#` `SteamVR` |
-| [Text Translation System for Unity](https://github.com/JILYK/Text-Translation-System-for-Unity) | Unity localization tool | `Unity` `C#` `Tools` |
-| [Zombies Attack](https://github.com/JILYK/Zombies-Attack) | Game prototype | `Unity` `C#` `Gameplay` |
-| [TestWebGL](https://github.com/JILYK/TestWebGL) | Browser build sandbox | `WebGL` `HTML` `Prototype` |
-| [VK-x-uchiRu-DDdevelop](https://github.com/JILYK/VK-x-uchiRu-DDdevelop) | C# project | `C#` `Unity` |
-| [Voopoo DRAG customize button FIX](https://github.com/JILYK/Voopoo-DRAG-customize-button-FIX) | Utility script | `Python` |
-
 ## Contact
 
 <div align="center">
