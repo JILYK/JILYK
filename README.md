@@ -72,12 +72,10 @@ public sealed class DeveloperProfile
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JILYK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=14b8a6&text_color=e5e7eb" alt="Danil's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILYK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
-
-</div>
+| Profile | Stack | Activity |
+|:---:|:---:|:---:|
+| ![Repositories](https://img.shields.io/badge/Public%20repos-20-2563eb?style=for-the-badge&labelColor=0f172a) | ![Main language](https://img.shields.io/badge/Main%20language-C%23-14b8a6?style=for-the-badge&labelColor=0f172a&logo=csharp&logoColor=white) | ![Focus](https://img.shields.io/badge/Focus-Unity%20Developer-7c3aed?style=for-the-badge&labelColor=0f172a&logo=unity&logoColor=white) |
+| ![Followers](https://img.shields.io/github/followers/JILYK?style=for-the-badge&label=Followers&color=2563eb&labelColor=0f172a&logo=github) | ![Projects](https://img.shields.io/badge/Projects-Games%20%7C%20VR%20%7C%20WebGL-14b8a6?style=for-the-badge&labelColor=0f172a) | ![Since](https://img.shields.io/badge/GitHub%20since-2023-7c3aed?style=for-the-badge&labelColor=0f172a) |
 
 ## Current Direction
 
@@ -88,15 +86,14 @@ public sealed class DeveloperProfile
 
 ## Repository Map
 
-<div align="center">
-
-[![SteamVR FireSafetyTrainer](https://github-readme-stats.vercel.app/api/pin/?username=JILYK&repo=SteamVR_FireSafetyTrainer&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6)](https://github.com/JILYK/SteamVR_FireSafetyTrainer)
-[![Text Translation System for Unity](https://github-readme-stats.vercel.app/api/pin/?username=JILYK&repo=Text-Translation-System-for-Unity&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6)](https://github.com/JILYK/Text-Translation-System-for-Unity)
-
-[![Zombies Attack](https://github-readme-stats.vercel.app/api/pin/?username=JILYK&repo=Zombies-Attack&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6)](https://github.com/JILYK/Zombies-Attack)
-[![TestWebGL](https://github-readme-stats.vercel.app/api/pin/?username=JILYK&repo=TestWebGL&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6)](https://github.com/JILYK/TestWebGL)
-
-</div>
+| Project | Type | Stack |
+|:---|:---|:---|
+| [SteamVR FireSafetyTrainer](https://github.com/JILYK/SteamVR_FireSafetyTrainer) | VR training simulation | `Unity` `C#` `SteamVR` |
+| [Text Translation System for Unity](https://github.com/JILYK/Text-Translation-System-for-Unity) | Unity localization tool | `Unity` `C#` `Tools` |
+| [Zombies Attack](https://github.com/JILYK/Zombies-Attack) | Game prototype | `Unity` `C#` `Gameplay` |
+| [TestWebGL](https://github.com/JILYK/TestWebGL) | Browser build sandbox | `WebGL` `HTML` `Prototype` |
+| [VK-x-uchiRu-DDdevelop](https://github.com/JILYK/VK-x-uchiRu-DDdevelop) | C# project | `C#` `Unity` |
+| [Voopoo DRAG customize button FIX](https://github.com/JILYK/Voopoo-DRAG-customize-button-FIX) | Utility script | `Python` |
 
 ## Contact
 
