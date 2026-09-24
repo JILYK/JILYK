@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Danil Kulagin — Unity game developer</title>
+  <desc id="desc">A luminous, isometric game world connecting VR training, a mysterious forest, and developer tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#07111D"/><stop offset=".58" stop-color="#0B1727"/><stop offset="1" stop-color="#111B2B"/></linearGradient>
+    <linearGradient id="beam" x1="406" y1="360" x2="1324" y2="163" gradientUnits="userSpaceOnUse"><stop stop-color="#37E3D0"/><stop offset=".5" stop-color="#62C9FF"/><stop offset="1" stop-color="#FFB567"/></linearGradient>
+    <linearGradient id="portal" x1="1047" y1="107" x2="1206" y2="335" gradientUnits="userSpaceOnUse"><stop stop-color="#67F5E5"/><stop offset="1" stop-color="#2687C8"/></linearGradient>
+    <linearGradient id="ground" x1="784" y1="278" x2="1162" y2="483" gradientUnits="userSpaceOnUse"><stop stop-color="#1A3445"/><stop offset="1" stop-color="#101C2C"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#25CFC2" stop-opacity=".22"/><stop offset="1" stop-color="#25CFC2" stop-opacity="0"/></radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="10"/><feOffset dy="12"/><feComponentTransfer><feFuncA type="linear" slope=".35"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1500" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="270" r="310" fill="url(#glow)"/>
+  <text x="82" y="159" fill="#70E4D7" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.4">MAKING WORLDS PLAYABLE</text>
+  <text x="78" y="224" fill="#F3F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8">Danil Kulagin</text>
+  <text x="82" y="263" fill="#9EAFBF" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing=".5">UNITY DEVELOPER  /  GAMEPLAY  /  VR</text>
+  <circle cx="1260" cy="105" r="126" fill="#54D7E7" opacity=".13" filter="url(#blur)"/>
+  <path d="M0 432C310 389 478 484 754 434s475-142 746-88v174H0V432Z" fill="#0B1522" opacity=".72"/>
+  <path d="M380 370 905 236 1342 348 812 492 380 370Z" fill="url(#ground)" stroke="#234354" stroke-width="2"/>
+  <path d="m380 370 432 122v22L380 393v-23Zm962-22v23L812 514v-22l530-144Z" fill="#0C1827"/>
+  <path d="M463 385 924 268 1254 353 799 475 463 385Z" stroke="url(#beam)" stroke-width="3" stroke-dasharray="5 11" opacity=".86"/>
+  <path d="M498 376 622 344 716 369 590 402 498 376Z" fill="#13283A" stroke="#2B5963" stroke-width="2"/>
+  <path d="m498 376 92 26v58l-92-27v-57Z" fill="#102233"/><path d="m590 402 126-33v58l-126 33v-58Z" fill="#0D1D2D"/>
+  <path d="M525 371v-58l14-7 15 5v59l-15 8-14-7Zm44-12v-72l15-8 15 5v71l-15 9-15-5Z" fill="#F49C53" opacity=".92"/>
+  <path d="M525 313h29m15-26h30" stroke="#FFD09A" stroke-width="3" opacity=".8"/>
+  <circle cx="539" cy="348" r="5" fill="#FFD495"/><circle cx="599" cy="326" r="5" fill="#FFD495"/>
+  <path d="m869 326 123-31 79 21-123 34-79-24Z" fill="#142B3B" stroke="#376071" stroke-width="2"/>
+  <path d="M869 326v-70l123-33v72l-123 31Z" fill="#102132" stroke="#2C5568" stroke-width="2"/>
+  <path d="m992 295 79 21v-69l-79-24v72Z" fill="#16283A" stroke="#2C5568" stroke-width="2"/>
+  <path d="M884 265 978 240m-94 38 94-25m-94 38 56-15" stroke="#4AD9D0" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <path d="M1043 314c-28-49-28-107 0-157 28-50 80-74 123-55 43 19 57 77 30 130-27 53-89 94-153 82Z" fill="#39CFC9" opacity=".22" filter="url(#blur)"/>
+  <path d="M1043 315c-23-47-20-102 7-147 29-48 78-69 116-48 39 22 47 74 20 123-26 48-84 81-143 72Z" stroke="url(#portal)" stroke-width="9"/>
+  <path d="M1056 305c-18-39-14-85 9-122 23-37 59-54 86-39 29 16 35 56 14 94-20 37-65 65-109 67Z" fill="#143947"/>
+  <path d="M1075 288 1091 215l10 17 11-43 14 29 19-47 6 68 27-19-18 56-61 24-24-12Z" fill="#17342F"/>
+  <path d="m1082 269 13-46m31 50 13-71m22 54 12-43" stroke="#4BD1B9" stroke-width="3" opacity=".72"/>
+  <path d="M1158 352 1211 338 1263 352 1210 367 1158 352Z" fill="#172B3C" stroke="#507187" stroke-width="2"/>
+  <path d="M1172 337v-43l39-10 39 11v43l-39 12-39-13Z" fill="#152639" stroke="#4E7183" stroke-width="2"/>
+  <path d="m1172 294 39 12 39-11m-39 11v44" stroke="#507187" stroke-width="2"/>
+  <path d="m1186 297 24 8 24-7" stroke="#8AE8E2" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="1210" cy="319" r="12" fill="#102331" stroke="#7CE1D8" stroke-width="2"/><path d="M1210 309v20m-9-10h18" stroke="#7CE1D8" stroke-width="2"/>
+  <circle cx="799" cy="475" r="7" fill="#62E2D2"/><circle cx="799" cy="475" r="18" stroke="#62E2D2" opacity=".35"/>
+  <circle cx="463" cy="385" r="5" fill="#FFB467"/><circle cx="1254" cy="353" r="5" fill="#77D8FF"/>
+  <path d="M876 177h44m-22-22v44m389-76h30m-15-15v30" stroke="#A2DDE0" stroke-width="2" opacity=".48"/>
+  <circle cx="981" cy="115" r="2" fill="#DAFFFF"/><circle cx="1337" cy="214" r="2" fill="#DAFFFF"/><circle cx="941" cy="195" r="2" fill="#DAFFFF"/><circle cx="1288" cy="100" r="2" fill="#DAFFFF"/>
+  <rect x="1" y="1" width="1498" height="518" rx="27" stroke="#9DDCE0" stroke-opacity=".12" stroke-width="2"/>
+</svg>
+
