@@ -17,6 +17,10 @@ I turn ideas into playable things: game mechanics, interactive training, and too
 
 A tiny floating world built from low-poly geometry. **Drag to rotate** the scene and use the **scroll wheel to zoom**.
 
+<p align="center">
+  <img src="./floating-island-spin.gif" alt="Floating island rotating in 3D" width="720">
+</p>
+
 ```stl
 solid jil yk_floating_island
   facet normal -0.579838 -0.653750 0.486209
